@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is pocomosso Land.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[2pocomosso@gmail.com](mailto:2pocomosso@gmail.com)
